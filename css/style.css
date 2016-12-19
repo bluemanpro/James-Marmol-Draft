@@ -61,7 +61,7 @@ a:focus{
 	text-decoration: none;
 }
 #home{
-	background: url(../img/m1.jpg);
+	background: url(../img/bg3.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -72,12 +72,12 @@ a:focus{
 	color: #ffffff;
 }
 #home a.down-btn span.fa.fa-angle-down {
-	font-size: 26px;
+	font-size: 20px;
 	border: 1px solid #FF2A26;
-	border-radius: 2px;
-	padding: 7px 5px;
+	border-radius: 1px;
+	padding: 5px 5px;
 	position: relative;
-	margin-top: 100px;
+	margin-top: 80px;
 	color: #ffffff;
 	cursor: pointer;
 }
@@ -217,10 +217,10 @@ background-color: transparent;
 }
 
 a.down-btn span.fa.fa-angle-down {
-	font-size: 26px;
+	font-size: 20px;
 	border: 1px solid #FF2A26;
-	border-radius: 2px;
-	padding: 7px 5px;
+	border-radius: 1px;
+	padding: 5px 5px;
 	position: relative;
 	cursor: pointer;
 	color: #000000;
@@ -497,7 +497,7 @@ ul.social li{
 
 ul.social li a{
 	color: #ffffff;
-	font-size: 16px;
+	font-size: 25px;
 }
 
 address strong{
